@@ -10,17 +10,19 @@ Create a new folder in your project called extensions and add this 4 files under
 4. style.css
 
 Phishing detection project/
- Phishing_Email.csv # Dataset
- train_model.py # Model training script
- model.pkl # Trained ML model
- vectorizer.pkl # TF-IDF vectorizer
- app.py # Flask API
+
+Phishing_Email.csv # Dataset
+train_model.py # Model training script
+model.pkl # Trained ML model
+vectorizer.pkl # TF-IDF vectorizer
+app.py # Flask API
 
  extension/
- manifest.json
- popup.html
- popup.js
- style.css
+
+manifest.json
+popup.html
+popup.js
+style.css
 
  Accuracy is of around **92%**
  
