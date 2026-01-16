@@ -8,7 +8,8 @@ Create a new folder in your project called extensions and add this 4 files under
 2. popop.html
 3. popup.js
 4. style.css
-   Phishing detection project/
+
+Phishing detection project/
 │
 ├── Phishing_Email.csv # Dataset
 ├── train_model.py # Model training script
