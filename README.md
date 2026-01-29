@@ -78,7 +78,7 @@ Phishing detection project/
    pip install flask scikit-learn pandas numpy
 2. Run the API: python app.py
 
-Chrome Extension
+## Chrome Extension
 
 Open Chrome → chrome://extensions/
 
@@ -90,7 +90,7 @@ Select the extension/ folder
 
 Use the popup to analyze email content
 
-Limitations
+## Limitations
 
 Model trained on a single dataset
 
@@ -98,11 +98,11 @@ No real-time email client integration
 
 Not production-ready security-wise
 
-License
+## License
 
 This project is intended for educational and learning purposes only.
 
-Developed By
+## Developed By
 
 Aarya Thengne
 
